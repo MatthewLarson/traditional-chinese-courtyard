@@ -1,0 +1,31 @@
+{
+  "locked": true,
+  "materialSlots": {
+    "stone_brick_2.001": "mat-644f1d7a-7985-4012-bfb4-3b2cdd03fff5",
+    "stone_brick_large_2.001": "mat-23112ee1-cc9c-418e-85ae-3de419c4f951",
+    "Plate3.002": "mat-c4769b81-a16e-43cd-88e7-85792a6decaa",
+    "Plate2.002": "mat-9684bb40-f73d-44e8-8a4e-e56a21792e1c",
+    "Plate1.002": "mat-5e85c3ef-be2a-4398-84fe-b33dbcf48a84",
+    "Material.002": "mat-ac72d358-a98b-4874-9631-2a8bfbbb45d0",
+    "Grass_C.001": "mat-a9158c45-e8cd-45cf-b369-ef8cf7d96a55",
+    "Leaves.001": "mat-3644fc9a-f57f-4991-861f-1ea6e2cf577e",
+    "Bark.001": "mat-e296e6a7-1a38-41ae-8b75-73087b77cd5a",
+    "lambert_WD_00.001": "mat-f253fd54-ad35-4a19-b974-b48ce6ecf99d",
+    "lambert_WD.001": "mat-5181751f-6aa7-479d-9005-770b4cd88d2d",
+    "lambert_W_02.001": "mat-5949e2f9-77b0-468b-ac4d-92ef312e89dd",
+    "lambert_W.001": "mat-a71519a3-2205-4572-93d3-938de5d45e91",
+    "lambert_W_03.001": "mat-e25f32cf-e621-4fbe-bd70-e3e27113a573",
+    "lambert_W_01.001": "mat-786ade14-a7f4-4087-baff-968370ce1a0d",
+    "lambert_MZ.001": "mat-ce1e9737-e3bb-4ffb-8248-d4c7ec686a66",
+    "lambert_DS_00.001": "mat-4e49d6bc-8b81-4fde-9299-2208a6f019fe",
+    "lambert_DS.001": "mat-47ceb485-095c-4aae-af32-09885e153622",
+    "lambert_qi_ta_wa_pian.003": "mat-b6d42b2d-d9b6-4965-81af-30add794384b",
+    "red_plaster.001": "mat-97ce0245-09da-4b66-a0fb-1e7874293cc9",
+    "Front_Uncomb.002": "mat-1a514ee7-2c47-4745-baae-034ea2650046",
+    "Front_Uncomb.003": "mat-a073829c-3349-4c26-a0a1-3cf88aca7c79",
+    "Material.007": "mat-8804a9c2-4f9e-4a85-aeb9-3126f33ddb2f",
+    "glass.001": "mat-be382859-e2a6-4f8f-afee-01bc6208ec7e",
+    "Material.008": "mat-3aaaf71f-cdb6-426c-96b9-077cecf84c28"
+  },
+  "lightmapStatic": true
+}
