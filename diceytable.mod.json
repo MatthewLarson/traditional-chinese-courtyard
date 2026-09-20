@@ -64,7 +64,28 @@
     "engine": ">=0.1 <1.0"
   },
   "license": "MIT",
-  "tags": [],
+  "tags": [
+    "beijing",
+    "ancient",
+    "historic",
+    "residential",
+    "urban",
+    "architectural",
+    "historical",
+    "china",
+    "cultural",
+    "heritage",
+    "culture",
+    "asian",
+    "imperial",
+    "chinese",
+    "traditional",
+    "dynasty",
+    "courtyard",
+    "oriental",
+    "classical",
+    "walled"
+  ],
   "credits": [
     {
       "id": "credit-7eedfc3b-3359-4092-a46f-7972c00a234b",
@@ -192,7 +213,7 @@
   ],
   "slug": "traditional-chinese-courtyard",
   "summary": "Traditional Chinese Courtyard",
-  "description": "Traditional Chinese Courtyard",
+  "description": "This is a detailed 3D model of a traditional Beijing Siheyuan, the iconic courtyard residence known for its classical Chinese architecture. A siheyuan is a type of dwelling commonly found throughout China, especially in Beijing and rural Shanxi. Throughout Chinese history, this layout was the foundational pattern for residences, palaces, temples, monasteries, family businesses, and government offices.\n\nCredits for Grass, Trees and Roof textures. Thank you!\n\n“Realtime Grass” (<https://skfb.ly/6vtKS>) by mfhscoobydoo is licensed under Creative Commons Attribution (<http://creativecommons.org/licenses/by/4.0/>).\n\n“Low Poly Tree Scene Free” (<https://skfb.ly/oGw7Y>) by Nicholas-3D is licensed under Creative Commons Attribution (<http://creativecommons.org/licenses/by/4.0/>).\n\n“写实比例\\_故宫太和殿顶部 Hall of Supreme Harmony” (<https://skfb.ly/oV69n>) by TRNKL is licensed under Creative Commons Attribution (<http://creativecommons.org/licenses/by/4.0/>).",
   "category": "room-historical",
   "coverImage": "media/cover.webp",
   "screenshots": [
