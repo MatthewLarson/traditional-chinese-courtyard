@@ -14,7 +14,6 @@
     "media/screenshot-1.webp",
     "models/siheyuan-courtyard-cropped.web.glb",
     "models/siheyuan-courtyard-cropped.web.meta.json",
-    "skies/kiara_1_dawn_2k.hdr",
     "skies/pink-sunrise-sky-mountain-landscape_2K_1a201f1f-282a-474e-b980-fa39d405b981.hdr",
     "textures/siheyuan-courtyard-cropped-web/image-0-48043645.webp",
     "textures/siheyuan-courtyard-cropped-web/image-1-ff1f7731.webp",
@@ -88,26 +87,6 @@
   ],
   "credits": [
     {
-      "id": "credit-7eedfc3b-3359-4092-a46f-7972c00a234b",
-      "paths": [
-        "skies/kiara_1_dawn_2k.hdr"
-      ],
-      "origin": "third-party",
-      "title": "Joburg Central Sunset",
-      "creator": "Dimitrios Savva",
-      "creatorUrl": "https://polyhaven.com/all?a=Dimitrios%20Savva",
-      "sourceUrl": "https://polyhaven.com/a/sunset_jhbcentral",
-      "licenseName": "CC0 1.0 (Public Domain)",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "notes": "Processing by Greg Zaal (https://polyhaven.com/all?a=Greg%20Zaal)",
-      "recordedAt": "2026-09-20T21:55:02.262Z",
-      "attestation": {
-        "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-20T21:55:02.262Z",
-        "signedName": "Matt Larson"
-      }
-    },
-    {
       "id": "credit-751aa7cc-b280-45b8-8b7c-de997ea9a22f",
       "paths": [
         "models/siheyuan-courtyard-cropped.web.glb",
@@ -171,42 +150,38 @@
       }
     },
     {
-      "id": "credit-b2dad0e3-df0b-416d-b0d9-642e98fb294a",
+      "id": "credit-aba099d6-7921-4c09-b464-8fc20bf63e64",
       "paths": [
+        "media/screenshot-1.webp",
+        "media/screenshot-0.webp",
         "media/cover-thumb.webp",
         "media/cover.webp"
       ],
       "origin": "own-work",
-      "recordedAt": "2026-09-20T23:00:14.722Z",
+      "title": "Images of Scene",
+      "recordedAt": "2026-09-20T23:05:38.882Z",
       "attestation": {
         "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-20T23:00:14.722Z",
+        "acceptedAt": "2026-09-20T23:05:38.882Z",
         "signedName": "Matt Larson"
       }
     },
     {
-      "id": "credit-8c47cf7a-88b7-43e2-b684-3057cd99baa8",
+      "id": "credit-9c383c63-bbec-4e0d-98a2-78185ffa3b51",
       "paths": [
-        "media/screenshot-0.webp"
+        "skies/pink-sunrise-sky-mountain-landscape_2K_1a201f1f-282a-474e-b980-fa39d405b981.hdr"
       ],
-      "origin": "own-work",
-      "recordedAt": "2026-09-20T23:00:24.567Z",
+      "origin": "third-party",
+      "title": "Pink Sunrise Sky Mountain Landscape",
+      "creator": "EB Adventure Photoscans",
+      "creatorUrl": "https://www.blendkit.com/?query=author_id:204469",
+      "sourceUrl": "https://www.blendkit.com/asset-gallery-detail/33263c1e-dadd-437c-bd18-fcf1173878dd/",
+      "licenseName": "Royalty Free",
+      "licenseUrl": "https://www.blendkit.com/docs/licenses/https://www.blendkit.com/docs/licenses/",
+      "recordedAt": "2026-09-20T23:04:54.610Z",
       "attestation": {
         "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-20T23:00:24.567Z",
-        "signedName": "Matt Larson"
-      }
-    },
-    {
-      "id": "credit-aba099d6-7921-4c09-b464-8fc20bf63e64",
-      "paths": [
-        "media/screenshot-1.webp"
-      ],
-      "origin": "own-work",
-      "recordedAt": "2026-09-20T23:00:42.098Z",
-      "attestation": {
-        "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-20T23:00:42.098Z",
+        "acceptedAt": "2026-09-20T23:04:54.610Z",
         "signedName": "Matt Larson"
       }
     }
