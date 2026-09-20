@@ -1,0 +1,195 @@
+{
+  "schemaVersion": "1.0",
+  "id": "traditional-chinese-courtyard",
+  "name": "Traditional Chinese Courtyard",
+  "version": "0.1.0",
+  "type": "room-pack",
+  "entry": {
+    "setup": "setup.json"
+  },
+  "assets": [
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp",
+    "models/siheyuan-courtyard-cropped.web.glb",
+    "models/siheyuan-courtyard-cropped.web.meta.json",
+    "skies/kiara_1_dawn_2k.hdr",
+    "skies/pink-sunrise-sky-mountain-landscape_2K_1a201f1f-282a-474e-b980-fa39d405b981.hdr",
+    "textures/siheyuan-courtyard-cropped-web/image-0-48043645.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-1-ff1f7731.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-10-1037d8e9.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-11-8a6d7341.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-12-9fbc1282.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-13-dda4be3e.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-14-9e19e83d.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-15-85a4cecf.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-16-8f9027b0.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-17-d1e21ff4.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-18-a8811d07.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-19-f411828d.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-2-4ff48f8d.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-20-44ac8b0a.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-21-94ca2092.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-22-7acbe3c7.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-23-4e1bfc64.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-24-bc4f4b41.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-25-09c4bd95.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-26-d935161a.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-27-a5dbaa87.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-28-c78d0e83.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-3-2460a8eb.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-30-7b045cc4.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-31-fe59f0c0.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-32-5e06e801.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-33-a6b52597.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-34-5ff0baeb.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-35-3357dfea.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-36-e9f9c95f.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-37-15df2368.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-38-dc0d19fc.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-39-f253c57a.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-4-5131410d.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-40-71a501ab.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-41-1d784da2.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-42-a1298626.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-43-4d31d2c1.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-5-d6a2b0f9.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-6-5cdd8607.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-7-1824a1cd.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-8-493b48ed.webp",
+    "textures/siheyuan-courtyard-cropped-web/image-9-85d8772d.webp"
+  ],
+  "compatibility": {
+    "engine": ">=0.1 <1.0"
+  },
+  "license": "MIT",
+  "tags": [],
+  "credits": [
+    {
+      "id": "credit-7eedfc3b-3359-4092-a46f-7972c00a234b",
+      "paths": [
+        "skies/kiara_1_dawn_2k.hdr"
+      ],
+      "origin": "third-party",
+      "title": "Joburg Central Sunset",
+      "creator": "Dimitrios Savva",
+      "creatorUrl": "https://polyhaven.com/all?a=Dimitrios%20Savva",
+      "sourceUrl": "https://polyhaven.com/a/sunset_jhbcentral",
+      "licenseName": "CC0 1.0 (Public Domain)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "notes": "Processing by Greg Zaal (https://polyhaven.com/all?a=Greg%20Zaal)",
+      "recordedAt": "2026-09-20T21:55:02.262Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-20T21:55:02.262Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-751aa7cc-b280-45b8-8b7c-de997ea9a22f",
+      "paths": [
+        "models/siheyuan-courtyard-cropped.web.glb",
+        "models/siheyuan-courtyard-cropped.web.meta.json",
+        "textures/siheyuan-courtyard-cropped-web/image-0-48043645.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-1-ff1f7731.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-10-1037d8e9.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-11-8a6d7341.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-12-9fbc1282.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-13-dda4be3e.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-14-9e19e83d.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-15-85a4cecf.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-16-8f9027b0.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-17-d1e21ff4.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-18-a8811d07.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-19-f411828d.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-2-4ff48f8d.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-20-44ac8b0a.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-21-94ca2092.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-22-7acbe3c7.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-23-4e1bfc64.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-24-bc4f4b41.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-25-09c4bd95.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-26-d935161a.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-27-a5dbaa87.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-28-c78d0e83.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-3-2460a8eb.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-30-7b045cc4.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-31-fe59f0c0.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-32-5e06e801.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-33-a6b52597.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-34-5ff0baeb.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-35-3357dfea.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-36-e9f9c95f.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-37-15df2368.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-38-dc0d19fc.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-39-f253c57a.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-4-5131410d.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-40-71a501ab.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-41-1d784da2.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-42-a1298626.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-43-4d31d2c1.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-5-d6a2b0f9.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-6-5cdd8607.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-7-1824a1cd.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-8-493b48ed.webp",
+        "textures/siheyuan-courtyard-cropped-web/image-9-85d8772d.webp"
+      ],
+      "origin": "third-party",
+      "title": "Traditional Chinese Siheyuan Courtyard",
+      "creator": "andertan",
+      "creatorUrl": "https://sketchfab.com/andertan",
+      "sourceUrl": "https://sketchfab.com/3d-models/traditional-chinese-siheyuan-courtyard-a18881525cfd4fe882e739c9c7cee752",
+      "licenseName": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "recordedAt": "2026-09-20T22:08:33.596Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-20T22:08:33.596Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-fc5a7d1f-af56-4dca-8b28-c847d3d57f61",
+      "paths": [
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-20T22:14:57.498Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-20T22:14:57.498Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-d450d873-ab40-4471-afd5-bff610f2ac98",
+      "paths": [
+        "media/screenshot-0.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-20T22:15:10.219Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-20T22:15:10.219Z",
+        "signedName": "Matt Larson"
+      }
+    }
+  ],
+  "slug": "traditional-chinese-courtyard",
+  "summary": "Traditional Chinese Courtyard",
+  "description": "Traditional Chinese Courtyard",
+  "category": "room-historical",
+  "coverImage": "media/cover.webp",
+  "screenshots": [
+    {
+      "path": "media/screenshot-0.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.1656549247606019,
+        "w": 1,
+        "h": 0.6686901504787962
+      }
+    }
+  ]
+}
