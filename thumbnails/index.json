@@ -153,20 +153,26 @@
       "height": 256
     },
     "media/cover-thumb.webp": {
-      "inputHash": "8f3bbe51afe5eb98",
+      "inputHash": "df3d1545ddad6802",
       "file": "thumbnails/media/cover-thumb.webp.webp",
       "width": 256,
       "height": 256
     },
     "media/cover.webp": {
-      "inputHash": "754b570c061f0657",
+      "inputHash": "e34cf318e6070f10",
       "file": "thumbnails/media/cover.webp.webp",
       "width": 256,
       "height": 256
     },
     "media/screenshot-0.webp": {
-      "inputHash": "2222b7509bd38f62",
+      "inputHash": "f4069b35d5b84c9b",
       "file": "thumbnails/media/screenshot-0.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-1.webp": {
+      "inputHash": "37d05218852e422e",
+      "file": "thumbnails/media/screenshot-1.webp.webp",
       "width": 256,
       "height": 144
     },
@@ -181,12 +187,6 @@
       "file": "thumbnails/originals/siheyuan-courtyard-cropped.web.glb.webp",
       "width": 256,
       "height": 256
-    },
-    "skies/kiara_1_dawn_2k.hdr": {
-      "inputHash": "fc2c4a6fb44b365b",
-      "file": "thumbnails/skies/kiara_1_dawn_2k.hdr.webp",
-      "width": 256,
-      "height": 128
     },
     "skies/pink-sunrise-sky-mountain-landscape_2K_1a201f1f-282a-474e-b980-fa39d405b981.hdr": {
       "inputHash": "8072e405c7d0283b",

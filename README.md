@@ -6,7 +6,15 @@
 
 ---
 
-Traditional Chinese Courtyard
+This is a detailed 3D model of a traditional Beijing Siheyuan, the iconic courtyard residence known for its classical Chinese architecture. A siheyuan is a type of dwelling commonly found throughout China, especially in Beijing and rural Shanxi. Throughout Chinese history, this layout was the foundational pattern for residences, palaces, temples, monasteries, family businesses, and government offices.
+
+Credits for Grass, Trees and Roof textures. Thank you!
+
+“Realtime Grass” (<https://skfb.ly/6vtKS>) by mfhscoobydoo is licensed under Creative Commons Attribution (<http://creativecommons.org/licenses/by/4.0/>).
+
+“Low Poly Tree Scene Free” (<https://skfb.ly/oGw7Y>) by Nicholas-3D is licensed under Creative Commons Attribution (<http://creativecommons.org/licenses/by/4.0/>).
+
+“写实比例\_故宫太和殿顶部 Hall of Supreme Harmony” (<https://skfb.ly/oV69n>) by TRNKL is licensed under Creative Commons Attribution (<http://creativecommons.org/licenses/by/4.0/>).
 
 ---
 

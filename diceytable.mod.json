@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "traditional-chinese-courtyard",
   "name": "Traditional Chinese Courtyard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "room-pack",
   "entry": {
     "setup": "setup.json"
@@ -11,9 +11,9 @@
     "media/cover-thumb.webp",
     "media/cover.webp",
     "media/screenshot-0.webp",
+    "media/screenshot-1.webp",
     "models/siheyuan-courtyard-cropped.web.glb",
     "models/siheyuan-courtyard-cropped.web.meta.json",
-    "skies/kiara_1_dawn_2k.hdr",
     "skies/pink-sunrise-sky-mountain-landscape_2K_1a201f1f-282a-474e-b980-fa39d405b981.hdr",
     "textures/siheyuan-courtyard-cropped-web/image-0-48043645.webp",
     "textures/siheyuan-courtyard-cropped-web/image-1-ff1f7731.webp",
@@ -63,28 +63,29 @@
     "engine": ">=0.1 <1.0"
   },
   "license": "MIT",
-  "tags": [],
+  "tags": [
+    "beijing",
+    "ancient",
+    "historic",
+    "residential",
+    "urban",
+    "architectural",
+    "historical",
+    "china",
+    "cultural",
+    "heritage",
+    "culture",
+    "asian",
+    "imperial",
+    "chinese",
+    "traditional",
+    "dynasty",
+    "courtyard",
+    "oriental",
+    "classical",
+    "walled"
+  ],
   "credits": [
-    {
-      "id": "credit-7eedfc3b-3359-4092-a46f-7972c00a234b",
-      "paths": [
-        "skies/kiara_1_dawn_2k.hdr"
-      ],
-      "origin": "third-party",
-      "title": "Joburg Central Sunset",
-      "creator": "Dimitrios Savva",
-      "creatorUrl": "https://polyhaven.com/all?a=Dimitrios%20Savva",
-      "sourceUrl": "https://polyhaven.com/a/sunset_jhbcentral",
-      "licenseName": "CC0 1.0 (Public Domain)",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "notes": "Processing by Greg Zaal (https://polyhaven.com/all?a=Greg%20Zaal)",
-      "recordedAt": "2026-09-20T21:55:02.262Z",
-      "attestation": {
-        "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-20T21:55:02.262Z",
-        "signedName": "Matt Larson"
-      }
-    },
     {
       "id": "credit-751aa7cc-b280-45b8-8b7c-de997ea9a22f",
       "paths": [
@@ -149,36 +150,45 @@
       }
     },
     {
-      "id": "credit-fc5a7d1f-af56-4dca-8b28-c847d3d57f61",
+      "id": "credit-aba099d6-7921-4c09-b464-8fc20bf63e64",
       "paths": [
+        "media/screenshot-1.webp",
+        "media/screenshot-0.webp",
         "media/cover-thumb.webp",
         "media/cover.webp"
       ],
       "origin": "own-work",
-      "recordedAt": "2026-09-20T22:14:57.498Z",
+      "title": "Images of Scene",
+      "recordedAt": "2026-09-20T23:05:38.882Z",
       "attestation": {
         "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-20T22:14:57.498Z",
+        "acceptedAt": "2026-09-20T23:05:38.882Z",
         "signedName": "Matt Larson"
       }
     },
     {
-      "id": "credit-d450d873-ab40-4471-afd5-bff610f2ac98",
+      "id": "credit-9c383c63-bbec-4e0d-98a2-78185ffa3b51",
       "paths": [
-        "media/screenshot-0.webp"
+        "skies/pink-sunrise-sky-mountain-landscape_2K_1a201f1f-282a-474e-b980-fa39d405b981.hdr"
       ],
-      "origin": "own-work",
-      "recordedAt": "2026-09-20T22:15:10.219Z",
+      "origin": "third-party",
+      "title": "Pink Sunrise Sky Mountain Landscape",
+      "creator": "EB Adventure Photoscans",
+      "creatorUrl": "https://www.blendkit.com/?query=author_id:204469",
+      "sourceUrl": "https://www.blendkit.com/asset-gallery-detail/33263c1e-dadd-437c-bd18-fcf1173878dd/",
+      "licenseName": "Royalty Free",
+      "licenseUrl": "https://www.blendkit.com/docs/licenses/https://www.blendkit.com/docs/licenses/",
+      "recordedAt": "2026-09-20T23:04:54.610Z",
       "attestation": {
         "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-20T22:15:10.219Z",
+        "acceptedAt": "2026-09-20T23:04:54.610Z",
         "signedName": "Matt Larson"
       }
     }
   ],
   "slug": "traditional-chinese-courtyard",
   "summary": "Traditional Chinese Courtyard",
-  "description": "Traditional Chinese Courtyard",
+  "description": "This is a detailed 3D model of a traditional Beijing Siheyuan, the iconic courtyard residence known for its classical Chinese architecture. A siheyuan is a type of dwelling commonly found throughout China, especially in Beijing and rural Shanxi. Throughout Chinese history, this layout was the foundational pattern for residences, palaces, temples, monasteries, family businesses, and government offices.\n\nCredits for Grass, Trees and Roof textures. Thank you!\n\n“Realtime Grass” (<https://skfb.ly/6vtKS>) by mfhscoobydoo is licensed under Creative Commons Attribution (<http://creativecommons.org/licenses/by/4.0/>).\n\n“Low Poly Tree Scene Free” (<https://skfb.ly/oGw7Y>) by Nicholas-3D is licensed under Creative Commons Attribution (<http://creativecommons.org/licenses/by/4.0/>).\n\n“写实比例\\_故宫太和殿顶部 Hall of Supreme Harmony” (<https://skfb.ly/oV69n>) by TRNKL is licensed under Creative Commons Attribution (<http://creativecommons.org/licenses/by/4.0/>).",
   "category": "room-historical",
   "coverImage": "media/cover.webp",
   "screenshots": [
@@ -186,9 +196,18 @@
       "path": "media/screenshot-0.webp",
       "crop": {
         "x": 0,
-        "y": 0.1656549247606019,
+        "y": 0.00575805008944541,
         "w": 1,
-        "h": 0.6686901504787962
+        "h": 0.9884838998211092
+      }
+    },
+    {
+      "path": "media/screenshot-1.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 0.8130960146615723,
+        "h": 1
       }
     }
   ]
