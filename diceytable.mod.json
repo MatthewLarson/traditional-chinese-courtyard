@@ -11,6 +11,7 @@
     "media/cover-thumb.webp",
     "media/cover.webp",
     "media/screenshot-0.webp",
+    "media/screenshot-1.webp",
     "models/siheyuan-courtyard-cropped.web.glb",
     "models/siheyuan-courtyard-cropped.web.meta.json",
     "skies/kiara_1_dawn_2k.hdr",
@@ -149,29 +150,42 @@
       }
     },
     {
-      "id": "credit-fc5a7d1f-af56-4dca-8b28-c847d3d57f61",
+      "id": "credit-b2dad0e3-df0b-416d-b0d9-642e98fb294a",
       "paths": [
         "media/cover-thumb.webp",
         "media/cover.webp"
       ],
       "origin": "own-work",
-      "recordedAt": "2026-09-20T22:14:57.498Z",
+      "recordedAt": "2026-09-20T23:00:14.722Z",
       "attestation": {
         "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-20T22:14:57.498Z",
+        "acceptedAt": "2026-09-20T23:00:14.722Z",
         "signedName": "Matt Larson"
       }
     },
     {
-      "id": "credit-d450d873-ab40-4471-afd5-bff610f2ac98",
+      "id": "credit-8c47cf7a-88b7-43e2-b684-3057cd99baa8",
       "paths": [
         "media/screenshot-0.webp"
       ],
       "origin": "own-work",
-      "recordedAt": "2026-09-20T22:15:10.219Z",
+      "recordedAt": "2026-09-20T23:00:24.567Z",
       "attestation": {
         "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-20T22:15:10.219Z",
+        "acceptedAt": "2026-09-20T23:00:24.567Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-aba099d6-7921-4c09-b464-8fc20bf63e64",
+      "paths": [
+        "media/screenshot-1.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-20T23:00:42.098Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-20T23:00:42.098Z",
         "signedName": "Matt Larson"
       }
     }
@@ -186,9 +200,18 @@
       "path": "media/screenshot-0.webp",
       "crop": {
         "x": 0,
-        "y": 0.1656549247606019,
+        "y": 0.00575805008944541,
         "w": 1,
-        "h": 0.6686901504787962
+        "h": 0.9884838998211092
+      }
+    },
+    {
+      "path": "media/screenshot-1.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 0.8130960146615723,
+        "h": 1
       }
     }
   ]
