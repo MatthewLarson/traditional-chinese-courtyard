@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "traditional-chinese-courtyard",
   "name": "Traditional Chinese Courtyard",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "room-pack",
   "entry": {
     "setup": "setup.json"
